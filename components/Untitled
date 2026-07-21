@@ -1,0 +1,1 @@
+.filter((i) => Number.isFinite(i.product_id) && Number(i.quantity) > 0),

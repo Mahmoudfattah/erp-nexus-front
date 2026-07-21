@@ -1,0 +1,8 @@
+
+{
+  "name": "Nexus ERP SaaS",
+  "description": "A modern, AI-powered Enterprise Resource Planning dashboard featuring CRM, Inventory, Finance, and intelligent reporting using Google Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
